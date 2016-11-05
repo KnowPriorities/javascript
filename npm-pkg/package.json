@@ -1,0 +1,11 @@
+{
+  "name": "knowpriorities",
+  "version": "0.0.1",
+  "description": "Prioritization engine designed to calculate a final priority list.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Randy Skopecek <support@knowpriorities.com> (https://www.knowpriorities.com/)",
+  "license": "MIT"
+}
